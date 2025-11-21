@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing the work of five talented indi
 
 ## 🚀 Live Demo
 
-**Website**: https://shradul9728.github.io/CSE-111-Shradul-Sharma-
+**Website**: https://shradul9728.github.io/CSE-111
 
 ## 🌟 Overview
 
@@ -267,12 +267,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration opportunities:
 
-- **Repository**: https://github.com/shradul9728/CSE-111-Shradul-Sharma-
-- **Live Website**: https://shradul9728.github.io/CSE-111-Shradul-Sharma-
+- **Repository**: https://github.com/shradul9728/CSE-111
+- **Live Website**: https://shradul9728.github.io/CSE-111
 - **Issues**: Use GitHub Issues for bug reports and feature requests
 
 ---
 
-**Built with ❤️ by Team Portfolio**
+**Built with ❤️ by Team K25WZ**
 
 *This README reflects the current state of our portfolio website. We're continuously improving and welcome feedback from the community!*
