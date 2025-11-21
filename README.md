@@ -273,6 +273,6 @@ For questions, suggestions, or collaboration opportunities:
 
 ---
 
-**Built with ❤️ by Team Portfolio**
+**Built with ❤️ by Team K25WZ**
 
 *This README reflects the current state of our portfolio website. We're continuously improving and welcome feedback from the community!*
